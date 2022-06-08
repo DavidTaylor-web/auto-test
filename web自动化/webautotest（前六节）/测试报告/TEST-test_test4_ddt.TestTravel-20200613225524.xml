@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<testsuite name="test_test4_ddt.TestTravel-20200613225524" tests="2" time="48.532" failures="0" errors="0">
+	<testcase classname="test_test4_ddt.TestTravel" name="test_order_1___13500000001____Success_2020__" time="24.396"/>
+	<testcase classname="test_test4_ddt.TestTravel" name="test_order_2___13912312345____123456__" time="24.135"/>
+	<system-out><![CDATA[]]></system-out>
+	<system-err><![CDATA[]]></system-err>
+</testsuite>
